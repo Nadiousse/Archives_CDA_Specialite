@@ -1,0 +1,14 @@
+C:\Users\stagiaire\Documents\[COURS3] CDA C#\[TP] C# Anthony\tp_numpy\bin\Debug\net8.0\tp_numpy.exe
+C:\Users\stagiaire\Documents\[COURS3] CDA C#\[TP] C# Anthony\tp_numpy\bin\Debug\net8.0\tp_numpy.deps.json
+C:\Users\stagiaire\Documents\[COURS3] CDA C#\[TP] C# Anthony\tp_numpy\bin\Debug\net8.0\tp_numpy.runtimeconfig.json
+C:\Users\stagiaire\Documents\[COURS3] CDA C#\[TP] C# Anthony\tp_numpy\bin\Debug\net8.0\tp_numpy.dll
+C:\Users\stagiaire\Documents\[COURS3] CDA C#\[TP] C# Anthony\tp_numpy\bin\Debug\net8.0\tp_numpy.pdb
+C:\Users\stagiaire\Documents\[COURS3] CDA C#\[TP] C# Anthony\tp_numpy\obj\Debug\net8.0\tp_numpy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stagiaire\Documents\[COURS3] CDA C#\[TP] C# Anthony\tp_numpy\obj\Debug\net8.0\tp_numpy.AssemblyInfoInputs.cache
+C:\Users\stagiaire\Documents\[COURS3] CDA C#\[TP] C# Anthony\tp_numpy\obj\Debug\net8.0\tp_numpy.AssemblyInfo.cs
+C:\Users\stagiaire\Documents\[COURS3] CDA C#\[TP] C# Anthony\tp_numpy\obj\Debug\net8.0\tp_numpy.csproj.CoreCompileInputs.cache
+C:\Users\stagiaire\Documents\[COURS3] CDA C#\[TP] C# Anthony\tp_numpy\obj\Debug\net8.0\tp_numpy.dll
+C:\Users\stagiaire\Documents\[COURS3] CDA C#\[TP] C# Anthony\tp_numpy\obj\Debug\net8.0\refint\tp_numpy.dll
+C:\Users\stagiaire\Documents\[COURS3] CDA C#\[TP] C# Anthony\tp_numpy\obj\Debug\net8.0\tp_numpy.pdb
+C:\Users\stagiaire\Documents\[COURS3] CDA C#\[TP] C# Anthony\tp_numpy\obj\Debug\net8.0\tp_numpy.genruntimeconfig.cache
+C:\Users\stagiaire\Documents\[COURS3] CDA C#\[TP] C# Anthony\tp_numpy\obj\Debug\net8.0\ref\tp_numpy.dll

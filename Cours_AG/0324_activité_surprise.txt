@@ -1,0 +1,53 @@
+activité de vocabulaire:
+
+1. int toto = 5;
+-> type variable = valeur de la variable;
+
+2. Chat[]
+-> un tableau qui stocke des types Chat
+
+3. mesChats[5] = c1;
+-> le 5 est un index du tableau mewChats
+
+4. for
+-> for est une boucle qui boucle les inscruction un nombre précis de fois
+
+5. public void Miauler()
+-> est une méthode d'une classe
+
+6. public void Miauler(int nbFois)
+-> est une surcharge de la méthose Miauler() avec des paramètres différents
+
+7. paramètres de la classe Chat
+
+8. un constructeur de la classe Chat
+
+9. new Chat
+-> new est un mot clé d'une nouvelle instanciation de la classe Chat
+
+10. Chat : Animal, IDeplacable
+-> Animal est une classe mère et IDeplacable est une Interface : es deux sont hérités par la classe Chat
+
+IMPLEMENTATION D'INTERFACE
+
+11. est une condition pour afficher un texte TERNAIRE
+
+12. Polymorphisme de classes NON
+
+COVARIANCE DES VARIABLES
+
+13. a1.Respirer()
+-> a1 utilise la méthode de la classe Animal mais avec la surcharge de Chat par le biais du Polymorphisme de méthode
+
+14. int[,]
+-> un tableau à 2 dimentions
+
+15. un cast de la valeur int à une variable float
+-> CONVERSION DE TYPE DE VARIABLE
+
+16. const
+-> variable non modifiable dans le code CONSTANTE
+
+17. concaténation de chaînes de caractères
+
+BONUS : NESTED ARRAY OU TABLEAU IMBRIQUé

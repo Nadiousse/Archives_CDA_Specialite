@@ -1,0 +1,14 @@
+C:\Users\stagiaire\Documents\[COURS3] CDA C#\[TP] C# Cédric\[Cours]Jour1\obj\Debug\[Cours]Jour1.csproj.AssemblyReference.cache
+C:\Users\stagiaire\Documents\[COURS3] CDA C#\[TP] C# Cédric\[Cours]Jour1\obj\Debug\[Cours]Jour1.csproj.CoreCompileInputs.cache
+C:\Users\stagiaire\Documents\[COURS3] CDA C#\[TP] C# Cédric\[Cours]Jour1\bin\Debug\[Cours]Jour1.exe.config
+C:\Users\stagiaire\Documents\[COURS3] CDA C#\[TP] C# Cédric\[Cours]Jour1\bin\Debug\[Cours]Jour1.exe
+C:\Users\stagiaire\Documents\[COURS3] CDA C#\[TP] C# Cédric\[Cours]Jour1\bin\Debug\[Cours]Jour1.pdb
+C:\Users\stagiaire\Documents\[COURS3] CDA C#\[TP] C# Cédric\[Cours]Jour1\obj\Debug\[Cours]Jour1.exe
+C:\Users\stagiaire\Documents\[COURS3] CDA C#\[TP] C# Cédric\[Cours]Jour1\obj\Debug\[Cours]Jour1.pdb
+C:\Users\stagiaire\Documents\[COURS3] CDA C#\[TP] C# Cédric\tp_jour_1_serpent\bin\Debug\[Cours]Jour1.exe.config
+C:\Users\stagiaire\Documents\[COURS3] CDA C#\[TP] C# Cédric\tp_jour_1_serpent\bin\Debug\[Cours]Jour1.exe
+C:\Users\stagiaire\Documents\[COURS3] CDA C#\[TP] C# Cédric\tp_jour_1_serpent\bin\Debug\[Cours]Jour1.pdb
+C:\Users\stagiaire\Documents\[COURS3] CDA C#\[TP] C# Cédric\tp_jour_1_serpent\obj\Debug\[Cours]Jour1.csproj.AssemblyReference.cache
+C:\Users\stagiaire\Documents\[COURS3] CDA C#\[TP] C# Cédric\tp_jour_1_serpent\obj\Debug\[Cours]Jour1.csproj.CoreCompileInputs.cache
+C:\Users\stagiaire\Documents\[COURS3] CDA C#\[TP] C# Cédric\tp_jour_1_serpent\obj\Debug\[Cours]Jour1.exe
+C:\Users\stagiaire\Documents\[COURS3] CDA C#\[TP] C# Cédric\tp_jour_1_serpent\obj\Debug\[Cours]Jour1.pdb

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3597YQf3j1pGlayxmxK+XwS4gZsqKlu8uAg6bcBF183IxeYq/62eoOD1sZKXhTrCxPzXdjf1BPad6AoRzlYtXw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\stagiaire\\Documents\\[COURS3] CDA C#\\[TP] C# Anthony\\tp_data_csv_traducteur\\tp_data_csv_traducteur.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\stagiaire\\.nuget\\packages\\csvhelper\\31.0.3\\csvhelper.31.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

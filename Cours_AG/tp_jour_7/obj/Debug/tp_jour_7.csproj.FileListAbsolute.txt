@@ -1,0 +1,7 @@
+C:\Users\stagiaire\Documents\[COURS3] CDA C#\[TP] C# Anthony\tp_jour_7\bin\Debug\tp_jour_7.exe.config
+C:\Users\stagiaire\Documents\[COURS3] CDA C#\[TP] C# Anthony\tp_jour_7\bin\Debug\tp_jour_7.exe
+C:\Users\stagiaire\Documents\[COURS3] CDA C#\[TP] C# Anthony\tp_jour_7\bin\Debug\tp_jour_7.pdb
+C:\Users\stagiaire\Documents\[COURS3] CDA C#\[TP] C# Anthony\tp_jour_7\obj\Debug\tp_jour_7.csproj.AssemblyReference.cache
+C:\Users\stagiaire\Documents\[COURS3] CDA C#\[TP] C# Anthony\tp_jour_7\obj\Debug\tp_jour_7.csproj.CoreCompileInputs.cache
+C:\Users\stagiaire\Documents\[COURS3] CDA C#\[TP] C# Anthony\tp_jour_7\obj\Debug\tp_jour_7.exe
+C:\Users\stagiaire\Documents\[COURS3] CDA C#\[TP] C# Anthony\tp_jour_7\obj\Debug\tp_jour_7.pdb

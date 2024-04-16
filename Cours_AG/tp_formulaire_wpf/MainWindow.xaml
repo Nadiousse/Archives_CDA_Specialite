@@ -1,0 +1,27 @@
+﻿<Window x:Class="tp_formulaire_wpf.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:tp_formulaire_wpf"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <TextBlock HorizontalAlignment="Left" Margin="17,14,0,0" TextWrapping="Wrap" VerticalAlignment="Top"><Run Language="fr-fr" Text="First Name"/></TextBlock>
+        <TextBox x:Name="firstName" HorizontalAlignment="Left" Margin="17,35,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBlock HorizontalAlignment="Left" Margin="17,64,0,0" TextWrapping="Wrap" VerticalAlignment="Top"><Run Language="fr-fr" Text="Last "/><Run Text="Name"/></TextBlock>
+        <TextBox x:Name="lastName" HorizontalAlignment="Left" Margin="17,85,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBlock HorizontalAlignment="Left" Margin="17,123,0,0" TextWrapping="Wrap" VerticalAlignment="Top"><Run Language="fr-fr" Text="Subscrition to mediapart"/></TextBlock>
+        <RadioButton x:Name="radioOneMonth" Content="1 Month" GroupName="SubscriptionTime" HorizontalAlignment="Left" Margin="17,144,0,0" VerticalAlignment="Top" Checked="RadioButton_Checked" IsChecked="True"/>
+        <RadioButton x:Name="radioSixMonth" Content="6 Months" GroupName="SubscriptionTime" HorizontalAlignment="Left" Margin="17,163,0,0" VerticalAlignment="Top" Checked="radioSixMonth_Checked"/>
+        <RadioButton x:Name="radioOneYear" Content="1 Year" GroupName="SubscriptionTime" HorizontalAlignment="Left" Margin="17,182,0,0" VerticalAlignment="Top" Checked="radioOneYear_Checked"/>
+        <TextBlock HorizontalAlignment="Left" Margin="17,212,0,0" TextWrapping="Wrap" VerticalAlignment="Top"><Run Text="Subscrition to "/><Run Language="fr-fr" Text="the newsletter"/></TextBlock>
+        <Button x:Name="buttonSubscription" Content="Subscription" HorizontalAlignment="Left" Margin="43,264,0,0" VerticalAlignment="Top" Click="buttonSubscription_Click"/>
+        <TextBlock x:Name="textblockDatabase" HorizontalAlignment="Left" Height="348" Margin="413,0,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="258" RenderTransformOrigin="0.523,0.516"/>
+        <Button x:Name="buttonShowDatabase" Content="Show DataBase" HorizontalAlignment="Left" Margin="500,358,0,0" VerticalAlignment="Top" Click="buttonShowDatabase_Click"/>
+        <Rectangle HorizontalAlignment="Left" Height="348" Margin="400,0,0,0" Stroke="Black" VerticalAlignment="Top" Width="286"/>
+        <CheckBox x:Name="newsletterCheckBox" Content="Yes" HorizontalAlignment="Left" Margin="17,233,0,0" VerticalAlignment="Top" IsChecked="True"/>
+        <Image HorizontalAlignment="Left" Height="172" Margin="211,17,0,0" VerticalAlignment="Top" Width="181" Source="/linux-tux-seeklogo.png"/>
+
+    </Grid>
+</Window>

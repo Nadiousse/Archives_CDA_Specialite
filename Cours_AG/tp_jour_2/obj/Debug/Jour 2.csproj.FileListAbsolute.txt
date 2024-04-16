@@ -1,0 +1,7 @@
+C:\Users\stagiaire\Documents\[COURS3] CDA C#\[Cours]TP C#\[TP] Jour 2\obj\Debug\Jour 2.csproj.AssemblyReference.cache
+C:\Users\stagiaire\Documents\[COURS3] CDA C#\[Cours]TP C#\[TP] Jour 2\obj\Debug\Jour 2.csproj.CoreCompileInputs.cache
+C:\Users\stagiaire\Documents\[COURS3] CDA C#\[Cours]TP C#\[TP] Jour 2\bin\Debug\Jour 2.exe.config
+C:\Users\stagiaire\Documents\[COURS3] CDA C#\[Cours]TP C#\[TP] Jour 2\bin\Debug\Jour 2.exe
+C:\Users\stagiaire\Documents\[COURS3] CDA C#\[Cours]TP C#\[TP] Jour 2\bin\Debug\Jour 2.pdb
+C:\Users\stagiaire\Documents\[COURS3] CDA C#\[Cours]TP C#\[TP] Jour 2\obj\Debug\Jour 2.exe
+C:\Users\stagiaire\Documents\[COURS3] CDA C#\[Cours]TP C#\[TP] Jour 2\obj\Debug\Jour 2.pdb

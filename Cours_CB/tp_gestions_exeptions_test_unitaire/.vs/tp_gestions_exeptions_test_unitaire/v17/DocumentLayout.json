@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\stagiaire\\Documents\\[COURS3] CDA C#\\[TP] C# C\u00E9dric\\tp_gestions_exeptions_test_unitaire\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{94F95BD8-D9BC-4DA7-A259-10319EC224A6}|tp_gestions_exeptions_test_unitaire\\tp_gestions_exeptions_test_unitaire.csproj|c:\\users\\stagiaire\\documents\\[cours3] cda c#\\[tp] c# c\u00E9dric\\tp_gestions_exeptions_test_unitaire\\tp_gestions_exeptions_test_unitaire\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94F95BD8-D9BC-4DA7-A259-10319EC224A6}|tp_gestions_exeptions_test_unitaire\\tp_gestions_exeptions_test_unitaire.csproj|solutionrelative:tp_gestions_exeptions_test_unitaire\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\stagiaire\\Documents\\[COURS3] CDA C#\\[TP] C# C\u00E9dric\\tp_gestions_exeptions_test_unitaire\\tp_gestions_exeptions_test_unitaire\\Program.cs",
+              "RelativeDocumentMoniker": "tp_gestions_exeptions_test_unitaire\\Program.cs",
+              "ToolTip": "C:\\Users\\stagiaire\\Documents\\[COURS3] CDA C#\\[TP] C# C\u00E9dric\\tp_gestions_exeptions_test_unitaire\\tp_gestions_exeptions_test_unitaire\\Program.cs*",
+              "RelativeToolTip": "tp_gestions_exeptions_test_unitaire\\Program.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAADDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T12:41:11Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

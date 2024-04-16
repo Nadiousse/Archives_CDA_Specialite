@@ -1,0 +1,7 @@
+C:\Users\stagiaire\Documents\[COURS3] CDA C#\[TP] C# Anthony\tp_GungeonExplorer\obj\Debug\tp_GungeonExplorer.csproj.AssemblyReference.cache
+C:\Users\stagiaire\Documents\[COURS3] CDA C#\[TP] C# Anthony\tp_GungeonExplorer\obj\Debug\tp_GungeonExplorer.csproj.CoreCompileInputs.cache
+C:\Users\stagiaire\Documents\[COURS3] CDA C#\[TP] C# Anthony\tp_GungeonExplorer\bin\Debug\tp_GungeonExplorer.exe.config
+C:\Users\stagiaire\Documents\[COURS3] CDA C#\[TP] C# Anthony\tp_GungeonExplorer\bin\Debug\tp_GungeonExplorer.exe
+C:\Users\stagiaire\Documents\[COURS3] CDA C#\[TP] C# Anthony\tp_GungeonExplorer\bin\Debug\tp_GungeonExplorer.pdb
+C:\Users\stagiaire\Documents\[COURS3] CDA C#\[TP] C# Anthony\tp_GungeonExplorer\obj\Debug\tp_GungeonExplorer.exe
+C:\Users\stagiaire\Documents\[COURS3] CDA C#\[TP] C# Anthony\tp_GungeonExplorer\obj\Debug\tp_GungeonExplorer.pdb

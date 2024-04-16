@@ -1,0 +1,14 @@
+C:\Users\stagiaire\Documents\[COURS3] CDA C#\[TP] C# Anthony\tp_linq_spotif\bin\Debug\net8.0\tp_linq_spotif.exe
+C:\Users\stagiaire\Documents\[COURS3] CDA C#\[TP] C# Anthony\tp_linq_spotif\bin\Debug\net8.0\tp_linq_spotif.deps.json
+C:\Users\stagiaire\Documents\[COURS3] CDA C#\[TP] C# Anthony\tp_linq_spotif\bin\Debug\net8.0\tp_linq_spotif.runtimeconfig.json
+C:\Users\stagiaire\Documents\[COURS3] CDA C#\[TP] C# Anthony\tp_linq_spotif\bin\Debug\net8.0\tp_linq_spotif.dll
+C:\Users\stagiaire\Documents\[COURS3] CDA C#\[TP] C# Anthony\tp_linq_spotif\bin\Debug\net8.0\tp_linq_spotif.pdb
+C:\Users\stagiaire\Documents\[COURS3] CDA C#\[TP] C# Anthony\tp_linq_spotif\obj\Debug\net8.0\tp_linq_spotif.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stagiaire\Documents\[COURS3] CDA C#\[TP] C# Anthony\tp_linq_spotif\obj\Debug\net8.0\tp_linq_spotif.AssemblyInfoInputs.cache
+C:\Users\stagiaire\Documents\[COURS3] CDA C#\[TP] C# Anthony\tp_linq_spotif\obj\Debug\net8.0\tp_linq_spotif.AssemblyInfo.cs
+C:\Users\stagiaire\Documents\[COURS3] CDA C#\[TP] C# Anthony\tp_linq_spotif\obj\Debug\net8.0\tp_linq_spotif.csproj.CoreCompileInputs.cache
+C:\Users\stagiaire\Documents\[COURS3] CDA C#\[TP] C# Anthony\tp_linq_spotif\obj\Debug\net8.0\tp_linq_spotif.dll
+C:\Users\stagiaire\Documents\[COURS3] CDA C#\[TP] C# Anthony\tp_linq_spotif\obj\Debug\net8.0\refint\tp_linq_spotif.dll
+C:\Users\stagiaire\Documents\[COURS3] CDA C#\[TP] C# Anthony\tp_linq_spotif\obj\Debug\net8.0\tp_linq_spotif.pdb
+C:\Users\stagiaire\Documents\[COURS3] CDA C#\[TP] C# Anthony\tp_linq_spotif\obj\Debug\net8.0\tp_linq_spotif.genruntimeconfig.cache
+C:\Users\stagiaire\Documents\[COURS3] CDA C#\[TP] C# Anthony\tp_linq_spotif\obj\Debug\net8.0\ref\tp_linq_spotif.dll

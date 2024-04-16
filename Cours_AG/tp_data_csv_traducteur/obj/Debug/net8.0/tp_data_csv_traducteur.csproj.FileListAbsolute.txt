@@ -1,0 +1,17 @@
+C:\Users\stagiaire\Documents\[COURS3] CDA C#\[TP] C# Anthony\tp_data_csv_traducteur\bin\Debug\net8.0\tp_data_csv_traducteur.exe
+C:\Users\stagiaire\Documents\[COURS3] CDA C#\[TP] C# Anthony\tp_data_csv_traducteur\bin\Debug\net8.0\tp_data_csv_traducteur.deps.json
+C:\Users\stagiaire\Documents\[COURS3] CDA C#\[TP] C# Anthony\tp_data_csv_traducteur\bin\Debug\net8.0\tp_data_csv_traducteur.runtimeconfig.json
+C:\Users\stagiaire\Documents\[COURS3] CDA C#\[TP] C# Anthony\tp_data_csv_traducteur\bin\Debug\net8.0\tp_data_csv_traducteur.dll
+C:\Users\stagiaire\Documents\[COURS3] CDA C#\[TP] C# Anthony\tp_data_csv_traducteur\bin\Debug\net8.0\tp_data_csv_traducteur.pdb
+C:\Users\stagiaire\Documents\[COURS3] CDA C#\[TP] C# Anthony\tp_data_csv_traducteur\bin\Debug\net8.0\CsvHelper.dll
+C:\Users\stagiaire\Documents\[COURS3] CDA C#\[TP] C# Anthony\tp_data_csv_traducteur\obj\Debug\net8.0\tp_data_csv_traducteur.csproj.AssemblyReference.cache
+C:\Users\stagiaire\Documents\[COURS3] CDA C#\[TP] C# Anthony\tp_data_csv_traducteur\obj\Debug\net8.0\tp_data_csv_traducteur.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stagiaire\Documents\[COURS3] CDA C#\[TP] C# Anthony\tp_data_csv_traducteur\obj\Debug\net8.0\tp_data_csv_traducteur.AssemblyInfoInputs.cache
+C:\Users\stagiaire\Documents\[COURS3] CDA C#\[TP] C# Anthony\tp_data_csv_traducteur\obj\Debug\net8.0\tp_data_csv_traducteur.AssemblyInfo.cs
+C:\Users\stagiaire\Documents\[COURS3] CDA C#\[TP] C# Anthony\tp_data_csv_traducteur\obj\Debug\net8.0\tp_data_csv_traducteur.csproj.CoreCompileInputs.cache
+C:\Users\stagiaire\Documents\[COURS3] CDA C#\[TP] C# Anthony\tp_data_csv_traducteur\obj\Debug\net8.0\tp_data_.D71A1792.Up2Date
+C:\Users\stagiaire\Documents\[COURS3] CDA C#\[TP] C# Anthony\tp_data_csv_traducteur\obj\Debug\net8.0\tp_data_csv_traducteur.dll
+C:\Users\stagiaire\Documents\[COURS3] CDA C#\[TP] C# Anthony\tp_data_csv_traducteur\obj\Debug\net8.0\refint\tp_data_csv_traducteur.dll
+C:\Users\stagiaire\Documents\[COURS3] CDA C#\[TP] C# Anthony\tp_data_csv_traducteur\obj\Debug\net8.0\tp_data_csv_traducteur.pdb
+C:\Users\stagiaire\Documents\[COURS3] CDA C#\[TP] C# Anthony\tp_data_csv_traducteur\obj\Debug\net8.0\tp_data_csv_traducteur.genruntimeconfig.cache
+C:\Users\stagiaire\Documents\[COURS3] CDA C#\[TP] C# Anthony\tp_data_csv_traducteur\obj\Debug\net8.0\ref\tp_data_csv_traducteur.dll

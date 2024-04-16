@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\stagiaire\\Documents\\[COURS3] CDA C#\\[TP] C# Anthony\\tp_jour_8_boite_mail\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6890AA96-5EEC-4455-9341-6751DC228723}|tp_jour_8_boite_mail.csproj|C:\\Users\\stagiaire\\Documents\\[COURS3] CDA C#\\[TP] C# Anthony\\tp_jour_8_boite_mail\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6890AA96-5EEC-4455-9341-6751DC228723}|tp_jour_8_boite_mail.csproj|solutionrelative:user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6890AA96-5EEC-4455-9341-6751DC228723}|tp_jour_8_boite_mail.csproj|c:\\users\\stagiaire\\documents\\[cours3] cda c#\\[tp] c# anthony\\tp_jour_8_boite_mail\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6890AA96-5EEC-4455-9341-6751DC228723}|tp_jour_8_boite_mail.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6890AA96-5EEC-4455-9341-6751DC228723}|tp_jour_8_boite_mail.csproj|C:\\Users\\stagiaire\\Documents\\[COURS3] CDA C#\\[TP] C# Anthony\\tp_jour_8_boite_mail\\mail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6890AA96-5EEC-4455-9341-6751DC228723}|tp_jour_8_boite_mail.csproj|solutionrelative:mail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6890AA96-5EEC-4455-9341-6751DC228723}|tp_jour_8_boite_mail.csproj|C:\\Users\\stagiaire\\Documents\\[COURS3] CDA C#\\[TP] C# Anthony\\tp_jour_8_boite_mail\\attachment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6890AA96-5EEC-4455-9341-6751DC228723}|tp_jour_8_boite_mail.csproj|solutionrelative:attachment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6890AA96-5EEC-4455-9341-6751DC228723}|tp_jour_8_boite_mail.csproj|C:\\Users\\stagiaire\\Documents\\[COURS3] CDA C#\\[TP] C# Anthony\\tp_jour_8_boite_mail\\choice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6890AA96-5EEC-4455-9341-6751DC228723}|tp_jour_8_boite_mail.csproj|solutionrelative:choice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\stagiaire\\Documents\\[COURS3] CDA C#\\[TP] C# Anthony\\tp_jour_8_boite_mail\\User.cs",
+              "RelativeDocumentMoniker": "User.cs",
+              "ToolTip": "C:\\Users\\stagiaire\\Documents\\[COURS3] CDA C#\\[TP] C# Anthony\\tp_jour_8_boite_mail\\User.cs",
+              "RelativeToolTip": "User.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAwwD0AAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-14T07:43:15.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Choice.cs",
+              "DocumentMoniker": "C:\\Users\\stagiaire\\Documents\\[COURS3] CDA C#\\[TP] C# Anthony\\tp_jour_8_boite_mail\\Choice.cs",
+              "RelativeDocumentMoniker": "Choice.cs",
+              "ToolTip": "C:\\Users\\stagiaire\\Documents\\[COURS3] CDA C#\\[TP] C# Anthony\\tp_jour_8_boite_mail\\Choice.cs",
+              "RelativeToolTip": "Choice.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAAAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-14T08:26:02.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Attachment.cs",
+              "DocumentMoniker": "C:\\Users\\stagiaire\\Documents\\[COURS3] CDA C#\\[TP] C# Anthony\\tp_jour_8_boite_mail\\Attachment.cs",
+              "RelativeDocumentMoniker": "Attachment.cs",
+              "ToolTip": "C:\\Users\\stagiaire\\Documents\\[COURS3] CDA C#\\[TP] C# Anthony\\tp_jour_8_boite_mail\\Attachment.cs",
+              "RelativeToolTip": "Attachment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-14T07:43:41.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Mail.cs",
+              "DocumentMoniker": "C:\\Users\\stagiaire\\Documents\\[COURS3] CDA C#\\[TP] C# Anthony\\tp_jour_8_boite_mail\\Mail.cs",
+              "RelativeDocumentMoniker": "Mail.cs",
+              "ToolTip": "C:\\Users\\stagiaire\\Documents\\[COURS3] CDA C#\\[TP] C# Anthony\\tp_jour_8_boite_mail\\Mail.cs",
+              "RelativeToolTip": "Mail.cs",
+              "ViewState": "AQIAAFwAAAAAAAAAAAAuwEkAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-14T07:43:24.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\stagiaire\\Documents\\[COURS3] CDA C#\\[TP] C# Anthony\\tp_jour_8_boite_mail\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\stagiaire\\Documents\\[COURS3] CDA C#\\[TP] C# Anthony\\tp_jour_8_boite_mail\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-14T07:36:16.393Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

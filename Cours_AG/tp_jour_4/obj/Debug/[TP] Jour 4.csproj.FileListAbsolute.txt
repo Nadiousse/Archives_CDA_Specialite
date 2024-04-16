@@ -1,0 +1,7 @@
+C:\Users\stagiaire\Documents\[COURS3] CDA C#\[TP] Jour 4\bin\Debug\[TP] Jour 4.exe.config
+C:\Users\stagiaire\Documents\[COURS3] CDA C#\[TP] Jour 4\bin\Debug\[TP] Jour 4.exe
+C:\Users\stagiaire\Documents\[COURS3] CDA C#\[TP] Jour 4\bin\Debug\[TP] Jour 4.pdb
+C:\Users\stagiaire\Documents\[COURS3] CDA C#\[TP] Jour 4\obj\Debug\[TP] Jour 4.csproj.AssemblyReference.cache
+C:\Users\stagiaire\Documents\[COURS3] CDA C#\[TP] Jour 4\obj\Debug\[TP] Jour 4.csproj.CoreCompileInputs.cache
+C:\Users\stagiaire\Documents\[COURS3] CDA C#\[TP] Jour 4\obj\Debug\[TP] Jour 4.exe
+C:\Users\stagiaire\Documents\[COURS3] CDA C#\[TP] Jour 4\obj\Debug\[TP] Jour 4.pdb

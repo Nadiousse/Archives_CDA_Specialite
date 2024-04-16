@@ -1,0 +1,205 @@
+--------------------PREMIERE PARTIE : QUESTIONS--------------------
+
+OK 1. toto = 27; 
+
+OK 2. tutu tata 
+
+OK 3. La variable r de type Random n'a pas été instancié et donc ne peut utiliser la méthode Next().
+
+OK 4. Une classe est un moule et l'objet est un gateau qui sort du moule. Avec une classe, on peut créer autant d'objets qu'on veut.
+
+OK 5. Une classe abstraite est un moule pour d'autres classes et n'est pas instanciable.
+
+OK 6. Il ne respecte pas le principe d'encapsulation car tous les attributs devraient être private.
+
+OK 7. La particularité est que cette méthode est un constructeur.
+
+OK 8. Une surcharge de méthode est quand on crée plusieurs méthodes avec le même nom mais avec des paramètres différents.
+
+OK 9. La console affichera 11 qui sera la somme de t0 = 5 et t1 = 6.
+
+OK 10. Une propriété est la définition d'un attribut en même temps que la déclaration de ses accesseur/modificateur.
+-> racourci
+
+11. static permet de rendre une class, une méthode ou une propriéré globale.
+-> ???
+
+12. class Vase : IDestroyable{}
+-> + la méthode de l'interface IDestroyable dans la classe Vase
+
+OK 13. Cette méthode permet d'inverser les valeurs des deux variables. C'est une méthode générale qui s'adaptera à tout type de variable.
+
+OK 14. Le passage par référence permets de prendre les variables en paramètre et de les modifier globalement grâce à la méthode.
+-> On ne peut pas return les deux variables en même temps.
+
+15. Le polymorphisme permet d'utiliser le même nom de méthode tout en pouvant différencier la méthode par rapport aux paramètres demandés.
+-> quand on appele une méthode, c'est le type de l'instance qui défini la méthode.
+
+16. -
+
+--------------------DEUXIEME PARTIE : TRAVAUX PRATIQUES--------------------
+
+Partie A : La fourmilière
+
+Fourmiliere experience = new Fourmiliere(500);
+experience.Proliferer(12);
+Console.WriteLine($"Après 12 jours, il y a {experience.Population} de fourmis dans la fourmilière.");
+
+Résultat final => Après 12 jours, il y a 81 362 331 de fourmis dans la fourmilière.
+
+
+Partie B : Logiciel gestion de clients
+
+public class Client
+{
+    public string Nom { get; set; }
+    public string Prénom { get; set; }
+    public decimal Fonds { get; set; }
+
+    public Client(string nom, string prénom, decimal fonds)
+    {
+        Nom = nom;
+        Prénom = prénom;
+        Fonds = fonds;
+    }
+}
+
+public class Logement
+{
+    public Client Proprietaire { get; set; }
+    public Client Locataire { get; set; }
+    public decimal TarifLogement { get; set; }
+    public string NomDuLogement { get; set; }
+
+    public Logement(Client proprietaire, Client locataire, decimal tarifLogement, string nomDuLogement, Calendrier calendrier)
+    {
+        Proprietaire = proprietaire;
+        Locataire = locataire;
+        TarifLogement = tarifLogement;
+        NomDuLogement = nomDuLogement;
+
+        calendrier.PremierDuMois += PayerLoyer;
+    }
+
+    public void PayerLoyer()
+    {
+        Locataire.Fonds -= TarifLogement;
+        Proprietaire.Fonds += TarifLogement;
+        Console.WriteLine("Loyer payé pour le logement " + NomDuLogement + ".");
+    }
+
+}
+
+public class Calendrier
+{
+    public event Action PremierDuMois;
+
+    public void DeclancherPremierDuMois()
+    {
+        if (PremierDuMois != null)
+        {
+            PremierDuMois();
+        }
+    }
+}
+
+
+Partie C : League of Legends
+
+public class ObjetMagique
+{
+    public string Nom { get; set; }
+    public double Valeur { get; set; }
+    public int BonusPV { get; set; }
+    public int BonusPM { get; set; }
+    public int BonusAttaque { get; set; }
+    public int BonusVitesse { get; set; }
+
+    public ObjetMagique()
+    {
+        Nom = "Un Objet";
+        Valeur = 10000;
+
+        BonusPV = 0;
+        BonusPM = 0;
+        BonusAttaque = 0;
+        BonusVitesse = 0;
+    }
+
+    public ObjetMagique(string initNom, double initValeur, int initBonusPV, int initBonusPM, int initBonusAttaque, int initBonusVitesse)
+    {
+        Nom = initNom;
+        Valeur = initValeur;
+
+        BonusPV = initBonusPV;
+        BonusPM = initBonusPM;
+        BonusAttaque = initBonusAttaque;
+        BonusVitesse = initBonusVitesse;
+    }
+
+    public override string ToString()
+    {
+        return Nom;
+    }
+}
+
+
+public class Joueur
+{
+    private ObjetMagique[] Inventaire;
+    public double PO { get; set; }
+    public double PV { get; set; }
+    public double PM { get; set; }
+    public double Attaque { get; set; }
+    public double Vitesse { get; set; }
+
+    public Joueur()
+    {
+        PO = 0;
+        Inventaire = new ObjetMagique[6];
+
+        PV = 10000;
+        PM = 6000;
+        Attaque = 100;
+        Vitesse = 250;
+    }
+
+    public void AcheterObjet(ObjetMagique objetMagique, int emplacementInventaire)
+    {
+        if (Inventaire[emplacementInventaire] == null && PO >= objetMagique.Valeur)
+        {
+            PO -= objetMagique.Valeur;
+            Inventaire[emplacementInventaire] = objetMagique;
+
+            PV += objetMagique.BonusPV;
+            PM += objetMagique.BonusPM;
+            Attaque += objetMagique.BonusAttaque;
+            Vitesse += objetMagique.BonusVitesse;
+        }
+        else
+        {
+            Console.WriteLine("Je ne peux pas acheter cet objet.");
+        }
+    }
+
+    public void AfficherInventaire()
+    {
+        for (int i = 0; i < Inventaire.Length; i++)
+        {
+            if (Inventaire[i] != null)
+            {
+                Console.WriteLine($"{i}. {Inventaire[i]}");
+            }
+            else
+            {
+                Console.WriteLine($"{i}. vide");
+            }
+        }
+    }
+}
+
+
+--------------------PARTIE BONUS--------------------
+
+Si b1 est true, le programme vérifie que b2 soit true -> si oui renvoit FALSE, sinon TRUE.
+Si b1 est false, le programme vérifie que b2 soit true -> si oui renvoit TRUE, sinon FALSE.

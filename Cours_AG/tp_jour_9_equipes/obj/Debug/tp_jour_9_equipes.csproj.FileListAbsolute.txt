@@ -1,0 +1,7 @@
+C:\Users\stagiaire\Documents\[COURS3] CDA C#\[TP] C# Anthony\tp_jour_9_equipes\bin\Debug\tp_jour_9_equipes.exe.config
+C:\Users\stagiaire\Documents\[COURS3] CDA C#\[TP] C# Anthony\tp_jour_9_equipes\bin\Debug\tp_jour_9_equipes.exe
+C:\Users\stagiaire\Documents\[COURS3] CDA C#\[TP] C# Anthony\tp_jour_9_equipes\bin\Debug\tp_jour_9_equipes.pdb
+C:\Users\stagiaire\Documents\[COURS3] CDA C#\[TP] C# Anthony\tp_jour_9_equipes\obj\Debug\tp_jour_9_equipes.csproj.AssemblyReference.cache
+C:\Users\stagiaire\Documents\[COURS3] CDA C#\[TP] C# Anthony\tp_jour_9_equipes\obj\Debug\tp_jour_9_equipes.csproj.CoreCompileInputs.cache
+C:\Users\stagiaire\Documents\[COURS3] CDA C#\[TP] C# Anthony\tp_jour_9_equipes\obj\Debug\tp_jour_9_equipes.exe
+C:\Users\stagiaire\Documents\[COURS3] CDA C#\[TP] C# Anthony\tp_jour_9_equipes\obj\Debug\tp_jour_9_equipes.pdb

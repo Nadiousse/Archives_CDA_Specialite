@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "tp_WPF_spatify/1.0.0": {
+        "runtime": {
+          "tp_WPF_spatify.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "tp_WPF_spatify/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

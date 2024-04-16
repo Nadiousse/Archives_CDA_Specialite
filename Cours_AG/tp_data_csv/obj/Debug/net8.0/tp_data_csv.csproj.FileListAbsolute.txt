@@ -1,0 +1,17 @@
+C:\Users\stagiaire\Documents\[COURS3] CDA C#\[TP] C# Anthony\tp_data_csv\bin\Debug\net8.0\tp_data_csv.exe
+C:\Users\stagiaire\Documents\[COURS3] CDA C#\[TP] C# Anthony\tp_data_csv\bin\Debug\net8.0\tp_data_csv.deps.json
+C:\Users\stagiaire\Documents\[COURS3] CDA C#\[TP] C# Anthony\tp_data_csv\bin\Debug\net8.0\tp_data_csv.runtimeconfig.json
+C:\Users\stagiaire\Documents\[COURS3] CDA C#\[TP] C# Anthony\tp_data_csv\bin\Debug\net8.0\tp_data_csv.dll
+C:\Users\stagiaire\Documents\[COURS3] CDA C#\[TP] C# Anthony\tp_data_csv\bin\Debug\net8.0\tp_data_csv.pdb
+C:\Users\stagiaire\Documents\[COURS3] CDA C#\[TP] C# Anthony\tp_data_csv\bin\Debug\net8.0\CsvHelper.dll
+C:\Users\stagiaire\Documents\[COURS3] CDA C#\[TP] C# Anthony\tp_data_csv\obj\Debug\net8.0\tp_data_csv.csproj.AssemblyReference.cache
+C:\Users\stagiaire\Documents\[COURS3] CDA C#\[TP] C# Anthony\tp_data_csv\obj\Debug\net8.0\tp_data_csv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stagiaire\Documents\[COURS3] CDA C#\[TP] C# Anthony\tp_data_csv\obj\Debug\net8.0\tp_data_csv.AssemblyInfoInputs.cache
+C:\Users\stagiaire\Documents\[COURS3] CDA C#\[TP] C# Anthony\tp_data_csv\obj\Debug\net8.0\tp_data_csv.AssemblyInfo.cs
+C:\Users\stagiaire\Documents\[COURS3] CDA C#\[TP] C# Anthony\tp_data_csv\obj\Debug\net8.0\tp_data_csv.csproj.CoreCompileInputs.cache
+C:\Users\stagiaire\Documents\[COURS3] CDA C#\[TP] C# Anthony\tp_data_csv\obj\Debug\net8.0\tp_data_.AC950F5D.Up2Date
+C:\Users\stagiaire\Documents\[COURS3] CDA C#\[TP] C# Anthony\tp_data_csv\obj\Debug\net8.0\tp_data_csv.dll
+C:\Users\stagiaire\Documents\[COURS3] CDA C#\[TP] C# Anthony\tp_data_csv\obj\Debug\net8.0\refint\tp_data_csv.dll
+C:\Users\stagiaire\Documents\[COURS3] CDA C#\[TP] C# Anthony\tp_data_csv\obj\Debug\net8.0\tp_data_csv.pdb
+C:\Users\stagiaire\Documents\[COURS3] CDA C#\[TP] C# Anthony\tp_data_csv\obj\Debug\net8.0\tp_data_csv.genruntimeconfig.cache
+C:\Users\stagiaire\Documents\[COURS3] CDA C#\[TP] C# Anthony\tp_data_csv\obj\Debug\net8.0\ref\tp_data_csv.dll

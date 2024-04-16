@@ -1,0 +1,14 @@
+C:\Users\stagiaire\Documents\[COURS3] CDA C#\[TP] C# Anthony\partie_a_examen_chapitre_2\bin\Debug\net8.0\partie_a_examen_chapitre_2.exe
+C:\Users\stagiaire\Documents\[COURS3] CDA C#\[TP] C# Anthony\partie_a_examen_chapitre_2\bin\Debug\net8.0\partie_a_examen_chapitre_2.deps.json
+C:\Users\stagiaire\Documents\[COURS3] CDA C#\[TP] C# Anthony\partie_a_examen_chapitre_2\bin\Debug\net8.0\partie_a_examen_chapitre_2.runtimeconfig.json
+C:\Users\stagiaire\Documents\[COURS3] CDA C#\[TP] C# Anthony\partie_a_examen_chapitre_2\bin\Debug\net8.0\partie_a_examen_chapitre_2.dll
+C:\Users\stagiaire\Documents\[COURS3] CDA C#\[TP] C# Anthony\partie_a_examen_chapitre_2\bin\Debug\net8.0\partie_a_examen_chapitre_2.pdb
+C:\Users\stagiaire\Documents\[COURS3] CDA C#\[TP] C# Anthony\partie_a_examen_chapitre_2\obj\Debug\net8.0\partie_a_examen_chapitre_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stagiaire\Documents\[COURS3] CDA C#\[TP] C# Anthony\partie_a_examen_chapitre_2\obj\Debug\net8.0\partie_a_examen_chapitre_2.AssemblyInfoInputs.cache
+C:\Users\stagiaire\Documents\[COURS3] CDA C#\[TP] C# Anthony\partie_a_examen_chapitre_2\obj\Debug\net8.0\partie_a_examen_chapitre_2.AssemblyInfo.cs
+C:\Users\stagiaire\Documents\[COURS3] CDA C#\[TP] C# Anthony\partie_a_examen_chapitre_2\obj\Debug\net8.0\partie_a_examen_chapitre_2.csproj.CoreCompileInputs.cache
+C:\Users\stagiaire\Documents\[COURS3] CDA C#\[TP] C# Anthony\partie_a_examen_chapitre_2\obj\Debug\net8.0\partie_a_examen_chapitre_2.dll
+C:\Users\stagiaire\Documents\[COURS3] CDA C#\[TP] C# Anthony\partie_a_examen_chapitre_2\obj\Debug\net8.0\refint\partie_a_examen_chapitre_2.dll
+C:\Users\stagiaire\Documents\[COURS3] CDA C#\[TP] C# Anthony\partie_a_examen_chapitre_2\obj\Debug\net8.0\partie_a_examen_chapitre_2.pdb
+C:\Users\stagiaire\Documents\[COURS3] CDA C#\[TP] C# Anthony\partie_a_examen_chapitre_2\obj\Debug\net8.0\partie_a_examen_chapitre_2.genruntimeconfig.cache
+C:\Users\stagiaire\Documents\[COURS3] CDA C#\[TP] C# Anthony\partie_a_examen_chapitre_2\obj\Debug\net8.0\ref\partie_a_examen_chapitre_2.dll

@@ -1,0 +1,7 @@
+C:\Users\stagiaire\Documents\[COURS3] CDA C#\[TP] C# Anthony\examen_chapitre_1\bin\Debug\examen_chapitre_1.exe.config
+C:\Users\stagiaire\Documents\[COURS3] CDA C#\[TP] C# Anthony\examen_chapitre_1\bin\Debug\examen_chapitre_1.exe
+C:\Users\stagiaire\Documents\[COURS3] CDA C#\[TP] C# Anthony\examen_chapitre_1\bin\Debug\examen_chapitre_1.pdb
+C:\Users\stagiaire\Documents\[COURS3] CDA C#\[TP] C# Anthony\examen_chapitre_1\obj\Debug\examen_chapitre_1.csproj.AssemblyReference.cache
+C:\Users\stagiaire\Documents\[COURS3] CDA C#\[TP] C# Anthony\examen_chapitre_1\obj\Debug\examen_chapitre_1.csproj.CoreCompileInputs.cache
+C:\Users\stagiaire\Documents\[COURS3] CDA C#\[TP] C# Anthony\examen_chapitre_1\obj\Debug\examen_chapitre_1.exe
+C:\Users\stagiaire\Documents\[COURS3] CDA C#\[TP] C# Anthony\examen_chapitre_1\obj\Debug\examen_chapitre_1.pdb

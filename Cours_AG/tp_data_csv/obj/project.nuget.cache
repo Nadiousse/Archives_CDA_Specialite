@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7UZmgimzkyub7puYepssCX2hnF9Ecp1VUFbOyqBmZhd+JwX2SA55tBfawznvnVcIv0DPF4qKYxwMBOTSRFYtDg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\stagiaire\\Documents\\[COURS3] CDA C#\\[TP] C# Anthony\\tp_data_csv\\tp_data_csv.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\stagiaire\\.nuget\\packages\\csvhelper\\31.0.3\\csvhelper.31.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

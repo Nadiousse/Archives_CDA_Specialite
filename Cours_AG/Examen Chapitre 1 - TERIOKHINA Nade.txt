@@ -1,0 +1,121 @@
+Examen Chapitre 1 - TERIOKHINA Nadejda
+
+---------------------------------------------------------
+PREMIERE PARTIE : QUESTIONS
+
+1. toto = 15
+	-> OK
+
+2. toto = 35
+	-> OK
+
+3. foo = 3
+	-> OK
+
+4. toto = 99
+	-> OOPS = 100
+
+5. Une variable constante ne peut être modifier pendant l'éxecution du programme.
+	-> OK
+
+6. Une fonction renvoi une valeur alors que la procédure ne fait qu'éxecuter des instructions sans un renvoi d'une valeur.
+	-> OK
+
+7. Une liste stocke des valeurs du même type, la longueur de la liste est prédéfini.
+	-> OK
+
+8. On peut utilisé la boucle for au lieu d'une boucle while quand on sait combien d'itérations doit faire la boucle.
+	-> OK
+
+9. L'erreur est de vouloir additionner une variable string et une variable int dans une autre variable int.
+	-> OK moitié
+
+10. La fonction Addition est une fonction qui doit renvoyer une valeur int, dans le code il n'y a pas de "return" de la valeur resultat.
+	-> OK
+
+11. L'erreur est que la liste va de l'index 0 à l'index 3 et la boucle va aller de i = 0 à i = 4, sauf que l'index 4 n'éxiste pas dans la liste.
+	-> OK
+
+12. Main n'a pas d'accès à la variable résultat qui est dans la fonction Triple.
+	-> OK
+
+13. return a * b;
+	-> OK
+
+14. a et b sont des paramètres de la fonction MaFonction.
+	-> OK
+
+15. return ((a * 100) + b);
+	-> OK
+
+16. toto = toto.Replace('a', 'o');
+	-> OK
+
+---------------------------------------------------------
+DEUXIEME PARTIE : TRAVAUX PRATIQUES
+
+A)
+---
+Console.WriteLine("Veuillez saisir votre nom : ");
+string nom = Console.ReadLine();
+
+Console.WriteLine("Veuillez saisir votre prénom : ");
+string prenom = Console.ReadLine();
+
+string terminaisonMail = "@acme.fr";
+
+string mailGenere = nom[0] + prenom + terminaisonMail;
+
+Console.WriteLine($"Votre mail géréné est : {mailGenere}");
+---
+	-> OK
+
+B)
+---
+public static int InfligerDegats(int degatArme, int resistanceArmure)
+{
+    if (resistanceArmure >= degatArme)
+    {
+        return 1;
+    }
+    else
+    {
+        return resistanceArmure - degatArme;
+    }
+}
+---
+	-> OK (peut mieux faire => mettre un return à la fin du code avec tout stocké dans une variable)
+
+C)
+---
+Dictionary<string, int> listeScoresLettres = new Dictionary<string, int>();
+
+listeScoresLettres.Add("aeinorstul", 1);
+listeScoresLettres.Add("dgm", 2);
+listeScoresLettres.Add("bcp", 3);
+listeScoresLettres.Add("fhv", 4);
+listeScoresLettres.Add("jq", 8);
+listeScoresLettres.Add("kwxyz", 10);
+
+Console.WriteLine("Veuillez saisir un mot pour connaitre son score au Scrable : ");
+
+string saisieMot = Console.ReadLine();
+saisieMot = saisieMot.ToLower();
+
+int score = 0;
+
+foreach (char lettre in saisieMot)
+{
+    foreach (KeyValuePair<string, int> entreeDico in listeScoresLettres)
+    {
+        if (entreeDico.Key.Contains(lettre))
+        {
+            score += entreeDico.Value;
+        }
+    }
+}
+
+Console.WriteLine($"Le score de votre mot est de {score}.");
+---
+	-> OK (même si plus long fallait garder les définitions de variables string pour les points au lieu de mettre les string directement dans le dictionnaire)
+

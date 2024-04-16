@@ -1,0 +1,174 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\stagiaire\\Documents\\[COURS3] CDA C#\\[TP] C# Anthony\\tp_GungeonExplorer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD16B29D-F733-4BCF-A306-066571B5FB82}|tp_GungeonExplorer.csproj|C:\\Users\\stagiaire\\Documents\\[COURS3] CDA C#\\[TP] C# Anthony\\tp_GungeonExplorer\\encounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD16B29D-F733-4BCF-A306-066571B5FB82}|tp_GungeonExplorer.csproj|solutionrelative:encounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD16B29D-F733-4BCF-A306-066571B5FB82}|tp_GungeonExplorer.csproj|C:\\Users\\stagiaire\\Documents\\[COURS3] CDA C#\\[TP] C# Anthony\\tp_GungeonExplorer\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{AD16B29D-F733-4BCF-A306-066571B5FB82}|tp_GungeonExplorer.csproj|solutionrelative:classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD16B29D-F733-4BCF-A306-066571B5FB82}|tp_GungeonExplorer.csproj|c:\\users\\stagiaire\\documents\\[cours3] cda c#\\[tp] c# anthony\\tp_gungeonexplorer\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD16B29D-F733-4BCF-A306-066571B5FB82}|tp_GungeonExplorer.csproj|solutionrelative:room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD16B29D-F733-4BCF-A306-066571B5FB82}|tp_GungeonExplorer.csproj|c:\\users\\stagiaire\\documents\\[cours3] cda c#\\[tp] c# anthony\\tp_gungeonexplorer\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD16B29D-F733-4BCF-A306-066571B5FB82}|tp_GungeonExplorer.csproj|solutionrelative:game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD16B29D-F733-4BCF-A306-066571B5FB82}|tp_GungeonExplorer.csproj|c:\\users\\stagiaire\\documents\\[cours3] cda c#\\[tp] c# anthony\\tp_gungeonexplorer\\dungeon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD16B29D-F733-4BCF-A306-066571B5FB82}|tp_GungeonExplorer.csproj|solutionrelative:dungeon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD16B29D-F733-4BCF-A306-066571B5FB82}|tp_GungeonExplorer.csproj|C:\\Users\\stagiaire\\Documents\\[COURS3] CDA C#\\[TP] C# Anthony\\tp_GungeonExplorer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD16B29D-F733-4BCF-A306-066571B5FB82}|tp_GungeonExplorer.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD16B29D-F733-4BCF-A306-066571B5FB82}|tp_GungeonExplorer.csproj|C:\\Users\\stagiaire\\Documents\\[COURS3] CDA C#\\[TP] C# Anthony\\tp_GungeonExplorer\\monster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD16B29D-F733-4BCF-A306-066571B5FB82}|tp_GungeonExplorer.csproj|solutionrelative:monster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD16B29D-F733-4BCF-A306-066571B5FB82}|tp_GungeonExplorer.csproj|C:\\Users\\stagiaire\\Documents\\[COURS3] CDA C#\\[TP] C# Anthony\\tp_GungeonExplorer\\adventurer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD16B29D-F733-4BCF-A306-066571B5FB82}|tp_GungeonExplorer.csproj|solutionrelative:adventurer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD16B29D-F733-4BCF-A306-066571B5FB82}|tp_GungeonExplorer.csproj|C:\\Users\\stagiaire\\Documents\\[COURS3] CDA C#\\[TP] C# Anthony\\tp_GungeonExplorer\\effecttypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD16B29D-F733-4BCF-A306-066571B5FB82}|tp_GungeonExplorer.csproj|solutionrelative:effecttypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\stagiaire\\Documents\\[COURS3] CDA C#\\[TP] C# Anthony\\tp_GungeonExplorer\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\stagiaire\\Documents\\[COURS3] CDA C#\\[TP] C# Anthony\\tp_GungeonExplorer\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBcAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T10:00:02.564Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClassDiagram1.cd",
+              "DocumentMoniker": "C:\\Users\\stagiaire\\Documents\\[COURS3] CDA C#\\[TP] C# Anthony\\tp_GungeonExplorer\\ClassDiagram1.cd",
+              "RelativeDocumentMoniker": "ClassDiagram1.cd",
+              "ToolTip": "C:\\Users\\stagiaire\\Documents\\[COURS3] CDA C#\\[TP] C# Anthony\\tp_GungeonExplorer\\ClassDiagram1.cd*",
+              "RelativeToolTip": "ClassDiagram1.cd*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2024-02-27T07:52:00.32Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Room.cs",
+              "DocumentMoniker": "C:\\Users\\stagiaire\\Documents\\[COURS3] CDA C#\\[TP] C# Anthony\\tp_GungeonExplorer\\Room.cs",
+              "RelativeDocumentMoniker": "Room.cs",
+              "ToolTip": "C:\\Users\\stagiaire\\Documents\\[COURS3] CDA C#\\[TP] C# Anthony\\tp_GungeonExplorer\\Room.cs",
+              "RelativeToolTip": "Room.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T08:21:24.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\stagiaire\\Documents\\[COURS3] CDA C#\\[TP] C# Anthony\\tp_GungeonExplorer\\Game.cs",
+              "RelativeDocumentMoniker": "Game.cs",
+              "ToolTip": "C:\\Users\\stagiaire\\Documents\\[COURS3] CDA C#\\[TP] C# Anthony\\tp_GungeonExplorer\\Game.cs",
+              "RelativeToolTip": "Game.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T08:20:58.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dungeon.cs",
+              "DocumentMoniker": "C:\\Users\\stagiaire\\Documents\\[COURS3] CDA C#\\[TP] C# Anthony\\tp_GungeonExplorer\\Dungeon.cs",
+              "RelativeDocumentMoniker": "Dungeon.cs",
+              "ToolTip": "C:\\Users\\stagiaire\\Documents\\[COURS3] CDA C#\\[TP] C# Anthony\\tp_GungeonExplorer\\Dungeon.cs",
+              "RelativeToolTip": "Dungeon.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T08:20:11.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Adventurer.cs",
+              "DocumentMoniker": "C:\\Users\\stagiaire\\Documents\\[COURS3] CDA C#\\[TP] C# Anthony\\tp_GungeonExplorer\\Adventurer.cs",
+              "RelativeDocumentMoniker": "Adventurer.cs",
+              "ToolTip": "C:\\Users\\stagiaire\\Documents\\[COURS3] CDA C#\\[TP] C# Anthony\\tp_GungeonExplorer\\Adventurer.cs",
+              "RelativeToolTip": "Adventurer.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T13:07:58.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EffectTypes.cs",
+              "DocumentMoniker": "C:\\Users\\stagiaire\\Documents\\[COURS3] CDA C#\\[TP] C# Anthony\\tp_GungeonExplorer\\EffectTypes.cs",
+              "RelativeDocumentMoniker": "EffectTypes.cs",
+              "ToolTip": "C:\\Users\\stagiaire\\Documents\\[COURS3] CDA C#\\[TP] C# Anthony\\tp_GungeonExplorer\\EffectTypes.cs",
+              "RelativeToolTip": "EffectTypes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T10:43:01.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Encounter.cs",
+              "DocumentMoniker": "C:\\Users\\stagiaire\\Documents\\[COURS3] CDA C#\\[TP] C# Anthony\\tp_GungeonExplorer\\Encounter.cs",
+              "RelativeDocumentMoniker": "Encounter.cs",
+              "ToolTip": "C:\\Users\\stagiaire\\Documents\\[COURS3] CDA C#\\[TP] C# Anthony\\tp_GungeonExplorer\\Encounter.cs",
+              "RelativeToolTip": "Encounter.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwCQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T07:56:57.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Monster.cs",
+              "DocumentMoniker": "C:\\Users\\stagiaire\\Documents\\[COURS3] CDA C#\\[TP] C# Anthony\\tp_GungeonExplorer\\Monster.cs",
+              "RelativeDocumentMoniker": "Monster.cs",
+              "ToolTip": "C:\\Users\\stagiaire\\Documents\\[COURS3] CDA C#\\[TP] C# Anthony\\tp_GungeonExplorer\\Monster.cs",
+              "RelativeToolTip": "Monster.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T08:36:25.569Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

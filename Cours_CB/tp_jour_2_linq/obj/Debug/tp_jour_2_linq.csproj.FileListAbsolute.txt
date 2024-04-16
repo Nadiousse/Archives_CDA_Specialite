@@ -1,0 +1,7 @@
+C:\Users\stagiaire\Documents\[COURS3] CDA C#\[TP] C# Cédric\tp_jour_2_linq\bin\Debug\tp_jour_2_linq.exe.config
+C:\Users\stagiaire\Documents\[COURS3] CDA C#\[TP] C# Cédric\tp_jour_2_linq\bin\Debug\tp_jour_2_linq.exe
+C:\Users\stagiaire\Documents\[COURS3] CDA C#\[TP] C# Cédric\tp_jour_2_linq\bin\Debug\tp_jour_2_linq.pdb
+C:\Users\stagiaire\Documents\[COURS3] CDA C#\[TP] C# Cédric\tp_jour_2_linq\obj\Debug\tp_jour_2_linq.csproj.AssemblyReference.cache
+C:\Users\stagiaire\Documents\[COURS3] CDA C#\[TP] C# Cédric\tp_jour_2_linq\obj\Debug\tp_jour_2_linq.csproj.CoreCompileInputs.cache
+C:\Users\stagiaire\Documents\[COURS3] CDA C#\[TP] C# Cédric\tp_jour_2_linq\obj\Debug\tp_jour_2_linq.exe
+C:\Users\stagiaire\Documents\[COURS3] CDA C#\[TP] C# Cédric\tp_jour_2_linq\obj\Debug\tp_jour_2_linq.pdb

@@ -1,0 +1,7 @@
+C:\Users\stagiaire\Documents\[COURS3] CDA C#\[TP] C# Cédric\tp_jour_4_fizzbuzz\bin\Debug\tp_jour_4_fizzbuzz.exe.config
+C:\Users\stagiaire\Documents\[COURS3] CDA C#\[TP] C# Cédric\tp_jour_4_fizzbuzz\bin\Debug\tp_jour_4_fizzbuzz.exe
+C:\Users\stagiaire\Documents\[COURS3] CDA C#\[TP] C# Cédric\tp_jour_4_fizzbuzz\bin\Debug\tp_jour_4_fizzbuzz.pdb
+C:\Users\stagiaire\Documents\[COURS3] CDA C#\[TP] C# Cédric\tp_jour_4_fizzbuzz\obj\Debug\tp_jour_4_fizzbuzz.csproj.AssemblyReference.cache
+C:\Users\stagiaire\Documents\[COURS3] CDA C#\[TP] C# Cédric\tp_jour_4_fizzbuzz\obj\Debug\tp_jour_4_fizzbuzz.csproj.CoreCompileInputs.cache
+C:\Users\stagiaire\Documents\[COURS3] CDA C#\[TP] C# Cédric\tp_jour_4_fizzbuzz\obj\Debug\tp_jour_4_fizzbuzz.exe
+C:\Users\stagiaire\Documents\[COURS3] CDA C#\[TP] C# Cédric\tp_jour_4_fizzbuzz\obj\Debug\tp_jour_4_fizzbuzz.pdb

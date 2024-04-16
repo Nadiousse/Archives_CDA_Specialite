@@ -1,0 +1,7 @@
+C:\Users\stagiaire\Documents\[COURS3] CDA C#\[TP] C# Anthony\tp_jour_8_boite_mail\bin\Debug\tp_jour_8_boite_mail.exe.config
+C:\Users\stagiaire\Documents\[COURS3] CDA C#\[TP] C# Anthony\tp_jour_8_boite_mail\bin\Debug\tp_jour_8_boite_mail.exe
+C:\Users\stagiaire\Documents\[COURS3] CDA C#\[TP] C# Anthony\tp_jour_8_boite_mail\bin\Debug\tp_jour_8_boite_mail.pdb
+C:\Users\stagiaire\Documents\[COURS3] CDA C#\[TP] C# Anthony\tp_jour_8_boite_mail\obj\Debug\tp_jour_8_boite_mail.csproj.AssemblyReference.cache
+C:\Users\stagiaire\Documents\[COURS3] CDA C#\[TP] C# Anthony\tp_jour_8_boite_mail\obj\Debug\tp_jour_8_boite_mail.csproj.CoreCompileInputs.cache
+C:\Users\stagiaire\Documents\[COURS3] CDA C#\[TP] C# Anthony\tp_jour_8_boite_mail\obj\Debug\tp_jour_8_boite_mail.exe
+C:\Users\stagiaire\Documents\[COURS3] CDA C#\[TP] C# Anthony\tp_jour_8_boite_mail\obj\Debug\tp_jour_8_boite_mail.pdb

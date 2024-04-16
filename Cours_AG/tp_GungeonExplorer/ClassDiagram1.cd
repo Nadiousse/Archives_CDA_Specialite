@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="tp_GungeonExplorer.Dungeon">
+    <Position X="1.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEgAAAAAAAAAAAAAgAAAAAAAQAAAIgAAAgAAAAA=</HashCode>
+      <FileName>Dungeon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tp_GungeonExplorer.Room">
+    <Position X="3.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAACA=</HashCode>
+      <FileName>Room.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tp_GungeonExplorer.Item" Collapsed="true">
+    <Position X="5.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>Item.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tp_GungeonExplorer.Trap" Collapsed="true">
+    <Position X="6.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Trap.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tp_GungeonExplorer.Monster" Collapsed="true">
+    <Position X="8.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAAAQAAAAAAAAQABAIAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>Monster.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tp_GungeonExplorer.Adventurer" Collapsed="true">
+    <Position X="8.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAAAAAAAQAAEAAQBAIAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>Adventurer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tp_GungeonExplorer.Encounter" Collapsed="true">
+    <Position X="4.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAAABAQAAAAAAAAA=</HashCode>
+      <FileName>Encounter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tp_GungeonExplorer.Game" Collapsed="true">
+    <Position X="3.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Game.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tp_GungeonExplorer.Characteristics">
+    <Position X="8.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAIAAAAAAASAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Characteristics.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="tp_GungeonExplorer.Encounters">
+    <Position X="4.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAABAAAAQAAAAAAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>Encounters.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="tp_GungeonExplorer.EffectTypes">
+    <Position X="9.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABAAABRIAAAAAAAAAAAAAAAIA=</HashCode>
+      <FileName>EffectTypes.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

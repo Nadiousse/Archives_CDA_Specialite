@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\stagiaire\\Documents\\[COURS3] CDA C#\\[TP] C# Anthony\\tp_combat_data_binding\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B39C45C7-B3E4-46F3-94C5-E5FB353B6C83}|tp_combat_data_binding.csproj|c:\\users\\stagiaire\\documents\\[cours3] cda c#\\[tp] c# anthony\\tp_combat_data_binding\\warrior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B39C45C7-B3E4-46F3-94C5-E5FB353B6C83}|tp_combat_data_binding.csproj|solutionrelative:warrior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B39C45C7-B3E4-46F3-94C5-E5FB353B6C83}|tp_combat_data_binding.csproj|c:\\users\\stagiaire\\documents\\[cours3] cda c#\\[tp] c# anthony\\tp_combat_data_binding\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B39C45C7-B3E4-46F3-94C5-E5FB353B6C83}|tp_combat_data_binding.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B39C45C7-B3E4-46F3-94C5-E5FB353B6C83}|tp_combat_data_binding.csproj|c:\\users\\stagiaire\\documents\\[cours3] cda c#\\[tp] c# anthony\\tp_combat_data_binding\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B39C45C7-B3E4-46F3-94C5-E5FB353B6C83}|tp_combat_data_binding.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 326,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Warrior.cs",
+              "DocumentMoniker": "C:\\Users\\stagiaire\\Documents\\[COURS3] CDA C#\\[TP] C# Anthony\\tp_combat_data_binding\\Warrior.cs",
+              "RelativeDocumentMoniker": "Warrior.cs",
+              "ToolTip": "C:\\Users\\stagiaire\\Documents\\[COURS3] CDA C#\\[TP] C# Anthony\\tp_combat_data_binding\\Warrior.cs",
+              "RelativeToolTip": "Warrior.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwCAAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T07:57:05.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\stagiaire\\Documents\\[COURS3] CDA C#\\[TP] C# Anthony\\tp_combat_data_binding\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\stagiaire\\Documents\\[COURS3] CDA C#\\[TP] C# Anthony\\tp_combat_data_binding\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-04T07:54:37.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\stagiaire\\Documents\\[COURS3] CDA C#\\[TP] C# Anthony\\tp_combat_data_binding\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\stagiaire\\Documents\\[COURS3] CDA C#\\[TP] C# Anthony\\tp_combat_data_binding\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAxwB0AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T07:54:34.729Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 74,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

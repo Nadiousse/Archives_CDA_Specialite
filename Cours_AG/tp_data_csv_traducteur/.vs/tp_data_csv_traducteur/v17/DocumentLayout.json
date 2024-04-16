@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\stagiaire\\Documents\\[COURS3] CDA C#\\[TP] C# Anthony\\tp_data_csv_traducteur\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EC4A73B6-5992-4658-AAE5-262C13A51531}|tp_data_csv_traducteur.csproj|c:\\users\\stagiaire\\documents\\[cours3] cda c#\\[tp] c# anthony\\tp_data_csv_traducteur\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC4A73B6-5992-4658-AAE5-262C13A51531}|tp_data_csv_traducteur.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC4A73B6-5992-4658-AAE5-262C13A51531}|tp_data_csv_traducteur.csproj|c:\\users\\stagiaire\\documents\\[cours3] cda c#\\[tp] c# anthony\\tp_data_csv_traducteur\\languagemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC4A73B6-5992-4658-AAE5-262C13A51531}|tp_data_csv_traducteur.csproj|solutionrelative:languagemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC4A73B6-5992-4658-AAE5-262C13A51531}|tp_data_csv_traducteur.csproj|c:\\users\\stagiaire\\documents\\[cours3] cda c#\\[tp] c# anthony\\tp_data_csv_traducteur\\languagemats.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{EC4A73B6-5992-4658-AAE5-262C13A51531}|tp_data_csv_traducteur.csproj|solutionrelative:languagemats.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC4A73B6-5992-4658-AAE5-262C13A51531}|tp_data_csv_traducteur.csproj|c:\\users\\stagiaire\\documents\\[cours3] cda c#\\[tp] c# anthony\\tp_data_csv_traducteur\\language.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC4A73B6-5992-4658-AAE5-262C13A51531}|tp_data_csv_traducteur.csproj|solutionrelative:language.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC4A73B6-5992-4658-AAE5-262C13A51531}|tp_data_csv_traducteur.csproj|c:\\users\\stagiaire\\documents\\[cours3] cda c#\\[tp] c# anthony\\tp_data_csv_traducteur\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{EC4A73B6-5992-4658-AAE5-262C13A51531}|tp_data_csv_traducteur.csproj|solutionrelative:classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 57,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LanguageMats.csv",
+              "DocumentMoniker": "C:\\Users\\stagiaire\\Documents\\[COURS3] CDA C#\\[TP] C# Anthony\\tp_data_csv_traducteur\\LanguageMats.csv",
+              "RelativeDocumentMoniker": "LanguageMats.csv",
+              "ToolTip": "C:\\Users\\stagiaire\\Documents\\[COURS3] CDA C#\\[TP] C# Anthony\\tp_data_csv_traducteur\\LanguageMats.csv",
+              "RelativeToolTip": "LanguageMats.csv",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2024-04-08T10:03:48.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Language.cs",
+              "DocumentMoniker": "C:\\Users\\stagiaire\\Documents\\[COURS3] CDA C#\\[TP] C# Anthony\\tp_data_csv_traducteur\\Language.cs",
+              "RelativeDocumentMoniker": "Language.cs",
+              "ToolTip": "C:\\Users\\stagiaire\\Documents\\[COURS3] CDA C#\\[TP] C# Anthony\\tp_data_csv_traducteur\\Language.cs",
+              "RelativeToolTip": "Language.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T09:55:23.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClassDiagram1.cd",
+              "DocumentMoniker": "C:\\Users\\stagiaire\\Documents\\[COURS3] CDA C#\\[TP] C# Anthony\\tp_data_csv_traducteur\\ClassDiagram1.cd",
+              "RelativeDocumentMoniker": "ClassDiagram1.cd",
+              "ToolTip": "C:\\Users\\stagiaire\\Documents\\[COURS3] CDA C#\\[TP] C# Anthony\\tp_data_csv_traducteur\\ClassDiagram1.cd",
+              "RelativeToolTip": "ClassDiagram1.cd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2024-04-08T09:54:59.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LanguageManager.cs",
+              "DocumentMoniker": "C:\\Users\\stagiaire\\Documents\\[COURS3] CDA C#\\[TP] C# Anthony\\tp_data_csv_traducteur\\LanguageManager.cs",
+              "RelativeDocumentMoniker": "LanguageManager.cs",
+              "ToolTip": "C:\\Users\\stagiaire\\Documents\\[COURS3] CDA C#\\[TP] C# Anthony\\tp_data_csv_traducteur\\LanguageManager.cs",
+              "RelativeToolTip": "LanguageManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T09:53:17.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\stagiaire\\Documents\\[COURS3] CDA C#\\[TP] C# Anthony\\tp_data_csv_traducteur\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\stagiaire\\Documents\\[COURS3] CDA C#\\[TP] C# Anthony\\tp_data_csv_traducteur\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAACeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T09:49:23.105Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 343,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

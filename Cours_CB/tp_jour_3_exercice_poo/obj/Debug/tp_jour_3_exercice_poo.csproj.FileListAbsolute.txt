@@ -1,0 +1,7 @@
+C:\Users\stagiaire\Documents\[COURS3] CDA C#\[TP] C# Cédric\tp_jour_3_exercice_poo\bin\Debug\tp_jour_3_exercice_poo.exe.config
+C:\Users\stagiaire\Documents\[COURS3] CDA C#\[TP] C# Cédric\tp_jour_3_exercice_poo\bin\Debug\tp_jour_3_exercice_poo.exe
+C:\Users\stagiaire\Documents\[COURS3] CDA C#\[TP] C# Cédric\tp_jour_3_exercice_poo\bin\Debug\tp_jour_3_exercice_poo.pdb
+C:\Users\stagiaire\Documents\[COURS3] CDA C#\[TP] C# Cédric\tp_jour_3_exercice_poo\obj\Debug\tp_jour_3_exercice_poo.csproj.AssemblyReference.cache
+C:\Users\stagiaire\Documents\[COURS3] CDA C#\[TP] C# Cédric\tp_jour_3_exercice_poo\obj\Debug\tp_jour_3_exercice_poo.csproj.CoreCompileInputs.cache
+C:\Users\stagiaire\Documents\[COURS3] CDA C#\[TP] C# Cédric\tp_jour_3_exercice_poo\obj\Debug\tp_jour_3_exercice_poo.exe
+C:\Users\stagiaire\Documents\[COURS3] CDA C#\[TP] C# Cédric\tp_jour_3_exercice_poo\obj\Debug\tp_jour_3_exercice_poo.pdb
